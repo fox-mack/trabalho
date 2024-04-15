@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(8, 0, 255), rgb(98, 98, 114));/*criar um background mais bonito*/
+    background-position: center;
+}
+h1{
+    color: azure;
+    margin-top: 250px;
+}

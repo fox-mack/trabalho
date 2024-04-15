@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(108, 9, 9);
+    background-image: url(menu\ principal\ \(beta\).jpg);
+    background-position: center;
+    background-attachment: fixed;/*isso cerve para fixar a imagem*/
+    height: 100%;
+    background-repeat: no-repeat;
+    
+}
+h1,h2,h3,h4,h5,h6,p,em{
+    color: rgb(5, 25, 240);
+}
+a{
+    font-size: 35px;/*isso aqui e para o tamanho*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;/*aqui e para escolher a fonte*/
+}

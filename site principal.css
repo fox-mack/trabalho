@@ -1,0 +1,153 @@
+body{
+    background-image: url(menu/fundo\ azul.png);
+    background-size: 30px;
+    padding: 10px;
+    
+}
+.main{
+    display: flex;
+    flex: 1 ;
+}
+.left{
+    padding: 3em 0 3em 0;
+    flex: 1 1 100px;
+    max-width: 550px;
+}
+#icone{
+    display: block;
+    background-color: rgb(0, 132, 255);
+    text-shadow: 2px 2px 0px black;
+    border-style: inset;
+    border-color: rgb(0, 0, 0);
+    border-style: inset;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    
+}
+a{
+    font-size: px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-color: aqua;
+    text-decoration: none;
+}
+p{
+    color: rgb(21, 0, 255);
+}
+h1{
+    color: aliceblue;
+    
+}
+h2{
+    font-family: "Roboto Mono", monospace;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+#menu{
+    padding: 20px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border-style: inset;
+    border-color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3{
+    color: white;
+    padding: 10px;
+}
+body {
+    background-color: dimgray;
+}
+header{
+    
+    width: 500px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    text-shadow: 2px 2px 0px black;
+    border-style: inset;
+    border-color: rgb(0, 0, 0);
+    margin: auto;
+    text-align: center;
+    padding: 3em 0 3em 0;
+}
+
+header h2 {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap')
+    color: white;
+    
+}
+main{
+    width: 600px;
+    background-color:  rgba(255, 255, 255, 0);
+    color: white;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap')
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.817);
+    margin: auto;
+    padding: 5em 0 5em 0;
+    flex: 5 5 350px;
+    
+    
+}
+.right{
+    padding: 3em 0 3em 0;
+    flex: 1 1 100px;
+    max-width: 550px;
+    
+}
+.central{
+    text-align: center;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+a{
+    color:rgb(2, 184, 184);
+}
+.aEspical{ 
+    font-size: 30px;
+}
+a:hover{ /*mudar quando passa o mouse*/
+    
+    transition: 2s;
+    color: red;
+}
+nav{
+    display: flex;
+    flex: 1 1  200vw ;
+}
+aside{
+    display: flex;
+    flex: 1 1  200vw
+
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap')
+
+
+/*#ladoLeft{
+    display: flex;
+    flex: 1 1 200vw ;
+    float: left;
+    
+
+}
+#ladoRight{
+    display: flex;
+    flex: 1 1  200vw ;
+    margin: 3px;
+    float: right;
+}
+
+
+
+
+

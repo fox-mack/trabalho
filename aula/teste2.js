@@ -1,0 +1,11 @@
+//window.alert("mandioca frita")
+//window.confirm("dragon ball z")
+//window.prompt("episodio de hoje friza perde")
+//var nome = window.prompt("qual seu nome")
+//window.alert("bem viado " +nome+"!")
+var n1 = Number.parseFloat(window.prompt("digite um numero"))
+var n2 = Number.parseFloat(window.prompt("coloque mais um numero"))
+var s = n1 + n2
+var s = window.alert("a soma de 2 numeros deu "  + s)
+window.prompt("tu e burro ?")
+window.alert("mula do caraio")
