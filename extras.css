@@ -3,6 +3,7 @@ body{
     background-size: 30px;
     padding: 10px;
     background-color: dimgray;
+    
 }
 
 a{
@@ -15,4 +16,21 @@ a{
 h1{
     color: white;
     text-align: center;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    color:black;
+
+}
+
+p{
+    color: black;
+}
+
+label{
+    color: white;
 }
